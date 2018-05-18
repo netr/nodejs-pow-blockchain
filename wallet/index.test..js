@@ -1,1 +1,0 @@
-const Wallet = require('./index');
